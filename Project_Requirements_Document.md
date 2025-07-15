@@ -1,5 +1,5 @@
 # Project Requirements Document  
-**Service Name**: [TBD – Suggest adding a brand name]  
+**Service Name**: [benaam]  
 **Prepared For**: Individual Professionals & Small Businesses  
 **Service Scope**: Portfolio / Blog Site Setup & Lightweight Management  
 **Version**: 1.0  
